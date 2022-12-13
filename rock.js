@@ -1,6 +1,6 @@
 
 
-const  image = ['image/paper.jpeg','../image/scissor.jpg','image/rock.jpg']
+const  image = ['image/paper.jpeg','image/scissor.jpg','image/rock.jpg']
 
 
 const button =document.getElementById('button');
